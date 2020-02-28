@@ -1,5 +1,13 @@
-# FeedbackClassAPI
+# FeedbackClassApi
+Xamarin.Forms Mobile Application
+App: github.com/victor1304/FeedbackClassApp
 
-Back-end for mobile application project to provide feedback for teaching classes by their atendants.
+Mobile app built for University teachers, providing the possibility for the students to give feedback based on pre-defined questions by the teacher.
 
-:)
+The method is secure, because a temporary six-number PIN is generated upon sharing the feedback questions with the class.
+
+The teacher can view the history of answered questions at any time later.
+
+Xamarin.Forms + Dependency Services + SQLite + .NET Core
+
+:) VHR
