@@ -4,7 +4,7 @@ App: github.com/victor1304/FeedbackClassApp
 
 Mobile app built for University teachers, providing the possibility for the students to give feedback based on pre-defined questions by the teacher.
 
-The method is secure, because a temporary six-number PIN is generated upon sharing the feedback questions with the class.
+Secure by a temporary six-number PIN which is generated upon sharing the feedback questions with the class.
 
 The teacher can view the history of answered questions at any time later.
 
